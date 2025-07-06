@@ -1,0 +1,26 @@
+# Data Analyics
+Analytics refers to:
+- Systematical use of data
+- Statistical and quantitative analysis
+- Predictive modeling
+- Interpret and vizualize data 
+
+Outcome:
+Patterns
+Insights
+Trends
+
+### Power BI features
+- Statistical analysis
+- DAX measures: enhances power bi vizualizations, uncovers hidden data
+- Group and bin data
+- Clustering techniques
+- Analyze feature
+- Time series analysis: discover trends over time
+- Advanced analytics
+- Quick insights
+
+
+# Clustering
+Feature that enables to discover groups of data points.
+- Identifies similarities and disimilarities in attribute values.
